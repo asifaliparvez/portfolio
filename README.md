@@ -92,9 +92,9 @@ I am open to collab with people on Android Projects. curretnly I am looking for 
 
 ## 🔗 Social Links
 
-Email asifaliparvezasif@gmail.com
+Email-> asifaliparvezasif@gmail.com
 
-My Apps [Play Store](https://play.google.com/store/apps/developer?id=Asif+Ali+Parvez)
+My Apps-> [Play Store](https://play.google.com/store/apps/developer?id=Asif+Ali+Parvez)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
